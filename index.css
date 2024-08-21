@@ -1,0 +1,144 @@
+
+div.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  padding: 5px;
+}
+#img2 {
+   height: 50px; width: 50px;
+   display: block;
+   margin-left: 50%;
+   margin-right: 50%
+  }
+  #p1 {color: #00b39b;
+  font-size: 2rem;
+  font-family: Work Sans, Arial, sans-serif;
+  font-weight: 200;
+  letter-spacing: -0.3px;
+  padding-top: 20px;
+text-align: center;
+}   
+table{ width: 60%;
+display: block;
+    margin-left: 22%
+    
+  
+}
+#country{ 
+
+    border: none
+     }
+#for-patient{background-color: #00ccb1;}
+#for-doctors{background-color: #3d83df;}
+.center{width: 90%;
+    display: block;
+        margin-right:50%;
+        margin-left:10% ;
+            border-spacing: 30px;
+    }
+    #img4{   height: 40px; width: 40px;
+    }
+    #img5{   height: 40px; width: 40px;
+    }
+.select1{background-color:  #00ccb1;}
+.select2{background-color:   #3d83df;}
+#img6{   height: 40px; width: 40px;
+}
+.for-clinics{background-color: #1b2734;}
+#p333{color: aliceblue;
+}
+#p444{color: aliceblue;}
+#p555{color: aliceblue;}
+#p666{color: aliceblue;}
+#p777{color: aliceblue;}
+#p888{color: aliceblue;}
+.select4{background-color:   #1b2734;
+
+}
+select{color:aliceblue;
+border: none;
+text-decoration: underline;
+font-size: 19px;
+}
+#tr2{height: 400px;}
+.select3{background-color:   #1b2734; 
+
+}
+#img11 {
+    width: 100%;
+    display: block;
+    margin-right: 60%
+    
+   }
+   #img12 {
+    width: 100%;
+    display: block;
+    margin-left: %;
+    margin-right: 50
+   }
+   #r {
+    color: #00b39b;
+    font-weight: 300;
+    letter-spacing: -0.3px;
+    padding-left: 50px;
+    font-size: 30px;
+    
+}
+.qwe h3 {
+    font-size: 1.8461538462em;
+    color: #00b39b;
+    font-family: Work Sans, Arial, sans-serif;
+    font-weight: 300;
+    letter-spacing: -0.3px;}
+ 
+    
+   
+ .flag{    width: 25px;
+    height: auto;
+    vertical-align: middle
+ 
+}
+
+    .section4fourparts {
+        display: flex;
+        margin-right: 50px;
+        height: 100%;
+        justify-content: space-around;
+        margin-left: 100px;}
+        .section4fourparts div {
+            height: 500px;
+            width: 250px;
+        }
+        
+        .first2 {
+            display: flex;
+            flex-direction: column;
+            margin-top: 20px;
+            margin-right: 20px;
+        ;}
+ .qwe{background-color: #d0faf4;
+width: 100%;
+margin-left: 0%}
+
+    #leader{background-color: white;
+    text-align: center;}
+    #patients{background-color: white;
+    text-align: center;}
+    #visits{background-color: white;
+        text-align: center;
+    ;}
+    #rayenbh{background-color: white;
+            text-align: center;
+        width: 220px;}
+        #hr{text-align: center;
+        color: #00b39b;
+        font-size: 2.1428571429em;
+        font-family: Work Sans, Arial, sans-serif;
+    font-weight: 300;}
+        #vcx{text-align: center;}
+        div .buttons {
+            display: flex;
+            justify-content: space-between;
+        ;}
+            
